@@ -1,4 +1,3 @@
-
 public class ValidParenthesis {
 
     public boolean isValid(String s) {
