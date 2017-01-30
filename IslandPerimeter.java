@@ -1,5 +1,5 @@
 
-public class IslandPerimeter {
+ class IslandPerimeter {
 
     public int islandPerimeter(int[][] grid) {
         
